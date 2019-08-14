@@ -1,0 +1,23 @@
+body {
+	font-family: verdana;
+ 	background-color: lightblue;
+}
+
+h2{
+	padding: 0px 0px 0px 40px;
+  	color: black;
+}
+
+p{
+	padding: 0px 0px 0px 40px;
+  	font-size: 20px;
+}
+
+form{
+	padding: 0px 0px 0px 12px;
+}
+
+legend{
+	padding: 0px 0px 0px 24px;
+}
+

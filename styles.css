@@ -14,10 +14,14 @@ p{
 }
 
 form{
-	padding: 0px 0px 0px 12px;
+	padding: 0px 0px 0px 8px;
 }
 
 legend{
-	padding: 0px 0px 0px 24px;
+	padding: 0px 10px 0px 24px;
+}
+
+fieldset{
+	border-radius: 10px;
 }
 
